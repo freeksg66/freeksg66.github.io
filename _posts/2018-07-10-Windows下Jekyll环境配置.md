@@ -2,7 +2,7 @@
 layout:     post
 title:      Windows下Jekyll环境配置
 subtitle:   在本地轻松调试自己的Blog
-date:       2018-07-10
+date:       2018-07-01
 author:     BY
 header-img: img/home-bg-art.jpg
 catalog: true
